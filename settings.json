@@ -1,0 +1,24 @@
+{
+    "yaml.schemas": {
+        "file:///c%3A/Users/mathe/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "editor.fontFamily": "JetBrains Mono",
+    "git.autofetch": true,
+    "explorer.compactFolders": false,
+    "gitlens.views.stashes.files.layout": "list",
+    "security.workspace.trust.untrustedFiles": "open",
+    "vsicons.dontShowNewVersionMessage": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "debug.javascript.autoAttachFilter": "disabled",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "javascript.format.semicolons": "insert",
+    "typescript.format.semicolons": "insert",
+    "editor.formatOnSave": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
